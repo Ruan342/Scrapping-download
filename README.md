@@ -60,4 +60,3 @@ readme_content_project = """
         <li><strong>HTML & XPath</strong>: Para identificação e interação com elementos da página.</li>
     </ul>
 
-"/mnt/data/README_project_pt.html"
