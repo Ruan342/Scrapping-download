@@ -14,7 +14,7 @@ with SB() as sb:
     time.sleep(5)
     sb.click('a:contains("Relatórios")')
     sb.click("#relatorioGravacao")
-    sb.type("#txtDataI", "21/10/2010")
+    sb.type("#txtDataI", "inserção de data")
     sb.click("#btnSearch")
     time.sleep(3)
     #checando log para ultima pagina registrada
