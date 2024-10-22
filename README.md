@@ -35,7 +35,7 @@ readme_content_project = """
     <h1>Projeto de Automação com SeleniumBase</h1>
     <p>Este projeto tem como objetivo automatizar interações com uma página web, realizando login, navegação e download de arquivos automaticamente. Utiliza a biblioteca <strong>SeleniumBase</strong>, que é uma camada mais avançada do Selenium, oferecendo uma API mais amigável para automação de testes e scraping.</p>
 
-    <h2>Funcionalidades</h2>
+<h2>Funcionalidades</h2>
     <ul>
         <li>Login automático do site.</li>
         <li>Navegação entre as seções do site.</li>
@@ -44,7 +44,7 @@ readme_content_project = """
         <li>Controle de exceções, onde o script tenta novamente em caso de falhas temporárias.</li>
     </ul>
 
-    <h2>Fluxo do Projeto</h2>
+<h2>Fluxo do Projeto</h2>
     <ol>
         <li>O script realiza o login no site desejado usando as credenciais fornecidas.</li>
         <li>A partir de uma página pré-definida ou do último progresso registrado no log, o script da sequencia as ações.</li>
@@ -52,7 +52,7 @@ readme_content_project = """
         <li>Após o download de cada relatório, é analisado o elemento da página atual e é salva no arquivo de log.</li>
     </ol>
 
-    <h2>Tecnologias Utilizadas</h2>
+<h2>Tecnologias Utilizadas</h2>
     <ul>
         <li><strong>Python 3.6+</strong>: Linguagem de programação principal.</li>
         <li><strong>SeleniumBase</strong>: Biblioteca baseada em Selenium para automação de navegadores.</li>
